@@ -1,0 +1,16 @@
+*.env
+*.claude
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+*.log
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
